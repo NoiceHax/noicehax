@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
-- 🔭 I’m currently working on **Aasrah**
 
 - 🌱 I’m currently learning **Python, JavaScript, React, Node.js, Express, Flask, FastAPI, MySQL, MongoDB, Git, Docker, TensorFlow, PyTorch, OpenCV**
 
